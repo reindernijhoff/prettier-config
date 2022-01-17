@@ -1,0 +1,20 @@
+{
+  "name": "@mediamonks/prettier-config",
+  "version": "1.0.0",
+  "description": "Default Media.Monks Prettier Configuration",
+  "keywords": [
+    "Media.Monks",
+    "prettier"
+  ],
+  "homepage": "https://github.com/mediamonks/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/mediamonks/prettier-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediamonks/prettier-config.git"
+  },
+  "license": "MIT",
+  "author": "Media.Monks",
+  "main": "main.json"
+}
