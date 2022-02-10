@@ -16,5 +16,8 @@
   },
   "license": "MIT",
   "author": "Media.Monks",
-  "main": "main.json"
+  "main": "main.json",
+  "peerDependencies": {
+    "prettier": ">=2"
+  }
 }
